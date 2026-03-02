@@ -8,7 +8,7 @@ Welcome to my GitHub! I’m passionate about transforming complex datasets into 
 
 🌐 Portfolio:https://anshukunwar.com.np/
 
-# 🔧 Skills
+## 🔧 Skills
 
 Python – Data cleaning, analysis, and automation using libraries like pandas, NumPy, and matplotlib.
 
@@ -16,7 +16,7 @@ SQL – Efficient database querying and manipulation to extract meaningful insig
 
 Tableau / Power BI – Creating interactive dashboards and visualizations that tell compelling stories.
 
-# 📂 Projects
+## 📂 Projects
 
 I’m constantly experimenting with data and building projects to apply my skills. Some highlights:
 
@@ -26,7 +26,7 @@ Data analytics dashboards using Tableau / Power BI
 
 Python automation scripts for real-world tasks
 
-# 📫 Connect with Me
+## 📫 Connect with Me
 
 Portfolio:https://anshukunwar.com.np/
 Email:anshukun777@gmail.com
